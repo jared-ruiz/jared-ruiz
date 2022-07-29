@@ -7,7 +7,7 @@
 # :stars: Skills
 > JavaScript, CSS, HTML5, SQL, NoSQL, GitHub, MongoDB, Mongoose ODM, MySQL, Express, React, Node, REST API's, Handlebars, MVC, TDD, ORM, Bootstrap, Bulma, Apollo GraphQL, PWA’s
 # :sparkler: Links
-> [LinkedIn](https://www.linkedin.com/in/jaredruiz/)
+[LinkedIn](https://www.linkedin.com/in/jaredruiz/)
 
 
 <!--
