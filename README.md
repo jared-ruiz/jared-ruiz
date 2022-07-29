@@ -1,4 +1,11 @@
-### Hi there 👋
+# :milky_way: Hey! Hope You're Doing Well! 
+- My name is Jared Ruiz 
+- I am a Full Stack Developer
+- Seeking entry level opportunities
+# :sparkler: Links
+
+[LinkedIn](https://www.linkedin.com/in/jaredruiz/)
+
 
 <!--
 **jared-ruiz/jared-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
