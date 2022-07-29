@@ -1,11 +1,10 @@
 # :milky_way: Hey! Hope You're Doing Well! 
-> My name is Jared Ruiz
->  
-> I am a Full Stack Developer
-> 
-> Seeking entry level opportunities
+- My name is Jared Ruiz
+- I am a Full Stack Developer
 
-# :computer: Skills
+- Seeking entry level opportunities
+
+# :stars: Skills
 > JavaScript, CSS, HTML5, SQL, NoSQL, GitHub, MongoDB, Mongoose ODM, MySQL, Express, React, Node, REST API's, Handlebars, MVC, TDD, ORM, Bootstrap, Bulma, Apollo GraphQL, PWA’s
 # :sparkler: Links
 > [LinkedIn](https://www.linkedin.com/in/jaredruiz/)
