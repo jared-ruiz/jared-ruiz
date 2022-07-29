@@ -1,4 +1,4 @@
-# :milky_way: Hey! Hope You're Doing Well! 
+# :milky_way: Welcome! 
 - My name is Jared Ruiz
 - I am a Full Stack Developer
 
