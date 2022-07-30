@@ -9,6 +9,8 @@
 # :sparkler: Links
 [LinkedIn](https://www.linkedin.com/in/jaredruiz/)
 
+[Portfolio](https://jared-ruiz.github.io/Portfolio-Website/)
+
 
 <!--
 **jared-ruiz/jared-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
