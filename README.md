@@ -9,7 +9,7 @@
 # :sparkler: Links
 [LinkedIn](https://www.linkedin.com/in/jaredruiz/)
 
-[Portfolio](https://jared-ruiz.github.io/Portfolio-Website/)
+[Portfolio](https://jared-ruiz.github.io/#/)
 
 
 <!--
